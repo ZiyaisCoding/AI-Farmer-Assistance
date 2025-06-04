@@ -9,6 +9,7 @@ AI Farmer's Assistance helps farmers make data-driven decisions by analyzing soi
 - Crop yield prediction using Random Forest 
 
 ## Performance 
+The CNN architecture used in the study demonstrated an accuracy rate of 80% while the Random Forest Algorithm yielded an accuracy rate of 92%.
 
-
+## User Interface
 ![Screenshot 1](Screenshot1.png)
