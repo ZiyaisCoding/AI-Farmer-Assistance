@@ -1,2 +1,4 @@
-# AI-Farmer-Assistance
-Soil Analysis and Crop Recommendation system utilizing Machine Learning, applying deep learning algorithms to precisely evaluate soil types and deliver personalized crop recommendations, revolutionizing agricultural planning for farmers.
+# AI Farmer's Assistance
+ Optimal crop recommendation based on soil type, weather, area and selling price
+
+![Screenshot 1](Screenshot1.png)
